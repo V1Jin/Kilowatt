@@ -4,7 +4,6 @@ from dadata import Dadata
 from urllib.parse import quote
 
 
-
 sys.stdout.reconfigure(encoding='utf-8')
 
 API_2GIS = "f93a5b47-6e3b-4c23-ba03-185daa02ef64"
@@ -77,4 +76,4 @@ print(text)
 print("Кадастровый номер:",get_cadastral_number(text))
 print("Тип:",get_property_type(get_cadastral_number(text)))
 print("Есть ли бизнесы поблизости:", get_has_business(API_2GIS, id))
-print("Количество организааций по близости:",get_count_business(API_2GIS, id))
+print("Количество организааций в здании:",get_count_business(API_2GIS, id))
