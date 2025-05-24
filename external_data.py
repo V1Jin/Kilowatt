@@ -4,6 +4,7 @@ from dadata import Dadata
 from urllib.parse import quote
 
 
+
 sys.stdout.reconfigure(encoding='utf-8')
 
 API_2GIS = "f93a5b47-6e3b-4c23-ba03-185daa02ef64"
