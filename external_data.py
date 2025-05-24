@@ -50,13 +50,13 @@ def get_has_business(api_key, id): #флаг, есть ли хоть один ю
         return False
 
 
-def get_cadastral_number(text):
+def get_cadastral_number(text): #получение кадастра
     dadata = Dadata(API_DADATA, SECRET_DADATA)
     result = dadata.clean("address", text)
     return result["house_cadnum"]
 
     
-def get_property_type(kad_number):
+def get_property_type(kad_number): #получение типа по кадастру
     url = f"https://ns2.mapbaza.ru/api/geoportal/v2/search/geoportal?query={kad_number}"
     response = requests.get(url)
     data = response.json()
@@ -69,11 +69,11 @@ def get_property_type(kad_number):
 
     
 
-text = "Краснодар Ставрапольская 149"
-id = geocode_to_id(API_2GIS, text)
-# print(point_to_url(geocode_to_coords(API_2GIS, "Западная 8 Тимашевск")))
-print(text)
-print("Кадастровый номер:",get_cadastral_number(text))
-print("Тип:",get_property_type(get_cadastral_number(text)))
-print("Есть ли бизнесы поблизости:", get_has_business(API_2GIS, id))
-print("Количество организааций в здании:",get_count_business(API_2GIS, id))
+# text = "Краснодар Ставрапольская 149"
+# id = geocode_to_id(API_2GIS, text)
+# # print(point_to_url(geocode_to_coords(API_2GIS, "Западная 8 Тимашевск")))
+# print(text)
+# print("Кадастровый номер:",get_cadastral_number(text))
+# print("Тип:",get_property_type(get_cadastral_number(text)))
+# print("Есть ли бизнесы поблизости:", get_has_business(API_2GIS, id))
+# print("Количество организааций в здании:",get_count_business(API_2GIS, id))

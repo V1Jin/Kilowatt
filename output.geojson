@@ -1,0 +1,389 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.261422,
+          44.985836
+        ]
+      },
+      "properties": {
+        "accountId": 1080,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, проезд Летний, д. 2 А",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.358194,
+          44.862022
+        ]
+      },
+      "properties": {
+        "accountId": 1082,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, с Супсех, ул Цветочная, д. 28 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.264698,
+          44.986268
+        ]
+      },
+      "properties": {
+        "accountId": 1083,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, ул Горького, д. 33 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.533762,
+          44.372602
+        ]
+      },
+      "properties": {
+        "accountId": 1084,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Геленджик, с Архипо-Осиповка, ул Ленина, д. 94 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.252867,
+          44.98345
+        ]
+      },
+      "properties": {
+        "accountId": 1086,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, ул Золотые пески, д. 5 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.533731,
+          44.361305
+        ]
+      },
+      "properties": {
+        "accountId": 1088,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Геленджик, с Архипо-Осиповка, ул Кирпичная, д. 1 а",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.570808,
+          44.822409
+        ]
+      },
+      "properties": {
+        "accountId": 1247,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Северский, ст-ца Новодмитриевская, ул Садовая, д. 20 ",
+        "buildingType": "Прочий"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.998631,
+          44.993319
+        ]
+      },
+      "properties": {
+        "accountId": 1249,
+        "isCommercial": false,
+        "address": "Республика Адыгея, р-н Тахтамукайский, аул Козет, ул Шоссейная, д. 44 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.556719,
+          44.836044
+        ]
+      },
+      "properties": {
+        "accountId": 1259,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Северский, пгт Ильский, ул Пионерская, д. 87 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.575243,
+          45.22151
+        ]
+      },
+      "properties": {
+        "accountId": 1280,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Усть-Лабинский, ст-ца Воронежская, ул Мира, д. 75 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.5463,
+          45.208046
+        ]
+      },
+      "properties": {
+        "accountId": 1286,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Усть-Лабинский, ст-ца Воронежская, ул Садовая, д. 28 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.746326,
+          45.139332
+        ]
+      },
+      "properties": {
+        "accountId": 1294,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Усть-Лабинский, ст-ца Некрасовская, ул Кирова, д. 18 пом.  1 2 4 5 6 7",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.900219,
+          45.3096
+        ]
+      },
+      "properties": {
+        "accountId": 1304,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Усть-Лабинский, п Вимовец, ул Строительная, д. 36 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.930977,
+          45.312882
+        ]
+      },
+      "properties": {
+        "accountId": 1314,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Усть-Лабинский, ст-ца Ладожская, ул Ленина, д. 66 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.933572,
+          45.314186
+        ]
+      },
+      "properties": {
+        "accountId": 1318,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Усть-Лабинский, ст-ца Ладожская, ул Советская, д. 75 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.041896,
+          45.46203
+        ]
+      },
+      "properties": {
+        "accountId": 1356,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Тимашевский, ст-ца Медведовская, ул Красная, д. 69 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.005105,
+          45.463873
+        ]
+      },
+      "properties": {
+        "accountId": 1371,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Тимашевский, ст-ца Медведовская, ул Лиманная, д. 5 ",
+        "buildingType": "Прочий"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.260736,
+          45.623519
+        ]
+      },
+      "properties": {
+        "accountId": 1374,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Калининский, х Лебеди, ул Красноармейская, д. 40 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.802402,
+          46.28132
+        ]
+      },
+      "properties": {
+        "accountId": 1379,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Крыловский, ст-ца Октябрьская, ул Кондратюка, д. 7 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.717317,
+          45.123401
+        ]
+      },
+      "properties": {
+        "accountId": 1388,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Темрюкский, п Волна, ул Тмутараканская, д. 7 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.081613,
+          44.567156
+        ]
+      },
+      "properties": {
+        "accountId": 1390,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Тимашевский, ст-ца Медведовская, ул Ленина, д. 33 а",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.259196,
+          46.647083
+        ]
+      },
+      "properties": {
+        "accountId": 1393,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Ейский, п Краснофлотский, ул Комсомольская, д. 36 9",
+        "buildingType": "Прочий"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.561725,
+          45.377217
+        ]
+      },
+      "properties": {
+        "accountId": 1398,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Кореновский, ст. Раздольная, ул Советская, д. 65 ",
+        "buildingType": "Частный"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.371029,
+          44.87314
+        ]
+      },
+      "properties": {
+        "accountId": 1401,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, с Супсех, ул Космонавта Комарова, д. 7 ",
+        "buildingType": "Частный"
+      }
+    }
+  ]
+}
