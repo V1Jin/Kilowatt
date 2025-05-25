@@ -4,11 +4,9 @@ from urllib.parse import quote
 
 
 
-API_2GIS = "566b97c5-ec64-46c1-bb24-048c1bffe768"
-API_DADATA = "8a4cfc00823055a56808d387105d4fc05bd8dd07"
-SECRET_DADATA = "e140f92bdbb6098c1fab7d28cf5326b55916dca5"
-
-
+API_2GIS = "02ae6139-94f3-4ea9-8858-ba50d49e463a"
+API_DADATA = "9438965475222db596cee1d7b1e67fcdcaf101d2"
+SECRET_DADATA = "37ed6bda2935c2b54d00b267489447c09163686e"
 
 
 def geocode_to_coords(api_key, text):
