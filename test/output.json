@@ -1,0 +1,3120 @@
+{
+  "type": "FeatureCollection",
+  
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.80446,
+          44.405181
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 1497,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Мостовский, пгт Мостовской, ул Колхозная, д. 37 1",
+        "buildingType": "Частный",
+        "prediction": "38.82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.959085,
+          45.227888
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 1509,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Усть-Лабинский, х Братский, ул Ленина, д. 49 А",
+        "buildingType": "Частный",
+        "prediction": "28.24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.226399,
+          45.359428
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 1674,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Тбилисский, ст-ца Тбилисская, ул Хуторская, д. 31 ",
+        "buildingType": "Частный",
+        "prediction": "28.62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.391738,
+          44.786765
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 1955,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Анапский, с Сукко, ул Кооперативная, д. 2 ",
+        "buildingType": "Частный",
+        "prediction": "23.09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.256265,
+          44.986342
+        ],
+        "icon": "./ico/location-dot-solid.png"
+      },
+      "properties": {
+        "accountId": 1960,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, проезд Красивый, д. 3 ",
+        "buildingType": "Частный",
+        "prediction": "91.42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.260786,
+          44.987214
+        ],
+        "icon": "./ico/location-dot-solid.png"
+      },
+      "properties": {
+        "accountId": 1968,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, пер Благовещенский, д. 14 ",
+        "buildingType": "Частный",
+        "prediction": "89.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.098297,
+          44.943491
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 1969,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Крымский, х Веселый (Мерчанское с/п), ул Пушкина, д. 1 ",
+        "buildingType": "Частный",
+        "prediction": "20.49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.260591,
+          44.986481
+        ],
+        "icon": "./ico/location-dot-solid.png"
+      },
+      "properties": {
+        "accountId": 1971,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, пер Благовещенский, д. 6 , кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "91.90"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.532119,
+          44.359955
+        ],
+        "icon": "./ico/location-dot-solid.png"
+      },
+      "properties": {
+        "accountId": 1973,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Геленджик, с Архипо-Осиповка, ул Пограничная, д. 21 ",
+        "buildingType": "Частный",
+        "prediction": "87.39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.53174,
+          44.359109
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 1976,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Геленджик, с Архипо-Осиповка, ул Пограничная, д. 29 ",
+        "buildingType": "Частный",
+        "prediction": "41.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.257456,
+          44.98823
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 1979,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, пр-кт Южный, д. 9 , кв. 2 ",
+        "buildingType": "Многоквартирный",
+        "prediction": "79.68"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.532822,
+          44.372432
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 1983,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Геленджик, с Архипо-Осиповка, ул Ленина, д. 96 А",
+        "buildingType": "Частный",
+        "prediction": "36.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.527148,
+          44.363687
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 1991,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Геленджик, с Архипо-Осиповка, ул Садовая, д. 26 ",
+        "buildingType": "Частный",
+        "prediction": "54.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.211443,
+          43.681534
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2046,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, пгт Красная Поляна, ул Турчинского, д. 93 ",
+        "buildingType": "Частный",
+        "prediction": "20.27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.969669,
+          43.506311
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2059,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Липники, ул Липецкая, д. 8 в",
+        "buildingType": "Частный",
+        "prediction": "10.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.640773,
+          46.16842
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2076,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Павловский, ст-ца Атаманская, ул Вокзальная, д. 74 А",
+        "buildingType": "Частный",
+        "prediction": "69.45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.973611,
+          43.487671
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2096,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Высокое, ул Афипская, д. 4 ",
+        "buildingType": "Частный",
+        "prediction": "21.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.918183,
+          43.461743
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2108,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Орел-Изумруд, ул Холмская, д. 21 ",
+        "buildingType": "Частный",
+        "prediction": "17.57"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.929416,
+          45.122662
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2119,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Краснодар (Немецкая деревня), ул Баха, д. 5 ",
+        "buildingType": "Частный",
+        "prediction": "44.46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.716499,
+          45.738844
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2185,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Тимашевский, ст-ца Роговская, ул Свободная, д. 14 ",
+        "buildingType": "Частный",
+        "prediction": "43.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.698909,
+          45.217756
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2192,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Темрюкский, ст-ца Тамань, ул Лебедева, д. 90 В",
+        "buildingType": "Частный",
+        "prediction": "62.23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.001121,
+          45.811696
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2194,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Брюховецкий, ст-ца Брюховецкая, ул Чапаева, д. 93 ",
+        "buildingType": "Частный",
+        "prediction": "39.19"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.715804,
+          45.125398
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2196,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Темрюкский, п Волна, ул Цветочная, д. 12 ",
+        "buildingType": "Частный",
+        "prediction": "26.46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.186621,
+          46.049895
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2205,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Приморско-Ахтарский, г Приморско-Ахтарск, ул Победы, д. 29 ",
+        "buildingType": "Частный",
+        "prediction": "50.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.450966,
+          45.260468
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2236,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Красноармейский, ст-ца Ивановская, ул Рыночная, д. 42 ",
+        "buildingType": "Частный",
+        "prediction": "18.32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.460503,
+          45.266001
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2240,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Красноармейский, ст-ца Ивановская, ул Ленина, д. 38 ",
+        "buildingType": "Частный",
+        "prediction": "39.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.535945,
+          44.357699
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2242,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Геленджик, с Архипо-Осиповка, ул Гоголя, д. 25 а",
+        "buildingType": "Частный",
+        "prediction": "5.41"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.296041,
+          45.004393
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2245,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, ул Жукова, д. 58 ",
+        "buildingType": "Прочий",
+        "prediction": "39.36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.001932,
+          43.479134
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2247,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Нижняя Шиловка, ул Спутник, д. 0 ",
+        "buildingType": "Частный",
+        "prediction": "44.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.66916,
+          43.721754
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2279,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Альтмец, ул Кленовая, д. 19 А 1",
+        "buildingType": "Частный",
+        "prediction": "17.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.998631,
+          44.993319
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2286,
+        "isCommercial": false,
+        "address": "Республика Адыгея, р-н Тахтамукайский, аул Козет, ул Тенистая, д. 11 ГАС",
+        "buildingType": "Частный",
+        "prediction": "19.59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.255222,
+          44.989704
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2299,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Анапский, село Витязево, пр-кт Южный, д. 5 б",
+        "buildingType": "Частный",
+        "prediction": "61.63"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.528113,
+          44.361457
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2305,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Геленджик, с Архипо-Осиповка, пер Глухой, д. 17 Б",
+        "buildingType": "Частный",
+        "prediction": "63.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.036205,
+          45.673181
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2307,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Тимашевский, х Ленинский, ул Космонавтов, д. 3 а",
+        "buildingType": "Частный",
+        "prediction": "59.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.984197,
+          43.430504
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2311,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Черешня, ул Владимировская, д. 0 ",
+        "buildingType": "Частный",
+        "prediction": "32.43"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.001207,
+          45.450573
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2318,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Тимашевский, ст-ца Медведовская, ул Ленина, д. 111 а",
+        "buildingType": "Прочий",
+        "prediction": "53.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.253964,
+          45.034708
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2320,
+        "isCommercial": false,
+        "address": "Краснодарский край, тер. ДНТ Виктория, ул Парковая, д. 50 ",
+        "buildingType": "Прочий",
+        "prediction": "48.70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.501511,
+          43.824046
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2333,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, аул Малый Кичмай, ул Убыхская, д. 23 А",
+        "buildingType": "Частный",
+        "prediction": "24.25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.772633,
+          46.140098
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2337,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Крыловский, ст-ца Октябрьская, ул Кондратюка, д. 19 ЛПХ",
+        "buildingType": "Частный",
+        "prediction": "46.98"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.952749,
+          45.235356
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2351,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Новотитаровская, ул Октябрьская, д. 306 ",
+        "buildingType": "Частный",
+        "prediction": "41.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.931615,
+          43.512624
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2352,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Верхнениколаевское, ул Родная, д. 0 ",
+        "buildingType": "Частный",
+        "prediction": "26.93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.123858,
+          45.189342
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2354,
+        "isCommercial": true,
+        "address": "Краснодарский край, снт Радужное, пр-д Придорожный, д. 342 ",
+        "buildingType": "Прочий",
+        "prediction": "60.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.147523,
+          44.811928
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2355,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Старокорсунская, ул Северная, д. 0 ",
+        "buildingType": "Прочий",
+        "prediction": "45.13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.185716,
+          45.217989
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2359,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Темрюкский, ст-ца Тамань, южнее ст.Тамань",
+        "buildingType": "Частный",
+        "prediction": "41.88"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.363323,
+          44.819287
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2361,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Анапский, с Варваровка, ул Тихорецкая, д. 10 ",
+        "buildingType": "Частный",
+        "prediction": "20.75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.24524,
+          45.026722
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2362,
+        "isCommercial": false,
+        "address": "Краснодарский край, тер. ДНТ Виктория, ул без улицы, д. 189 ",
+        "buildingType": "Частный",
+        "prediction": "11.93"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.033215,
+          45.167023
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2364,
+        "isCommercial": false,
+        "address": "Краснодарский край, п Южный, ул Платановая, д. 168 1",
+        "buildingType": "Частный",
+        "prediction": "7.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.647774,
+          45.569383
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2368,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Выселковский, ст-ца Выселки, ул Свободы, д. 44 ",
+        "buildingType": "Прочий",
+        "prediction": "36.36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.945014,
+          45.503769
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2371,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Тимашевский, х Дербентский, ул Дербентская, д. 18 ",
+        "buildingType": "Прочий",
+        "prediction": "35.89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.877222,
+          44.052147
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2374,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Мостовский, с Соленое, пер Дальний, д. 3 ",
+        "buildingType": "Частный",
+        "prediction": "58.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.07472,
+          45.406679
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2375,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Тимашевский, х Ленинский, ул Центральная, д. 53 а",
+        "buildingType": "Прочий",
+        "prediction": "65.39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.755363,
+          44.30654
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2387,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Туапсинский, с Лермонтово, ул Тенгинская, д. 8 ",
+        "buildingType": "Частный",
+        "prediction": "27.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.766732,
+          44.704859
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2389,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Новороссийск, ст-ца Раевская, ул Маяковского, д. 4 ",
+        "buildingType": "Частный",
+        "prediction": "68.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.058966,
+          44.631867
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2391,
+        "isCommercial": false,
+        "address": "Республика Адыгея, г Майкоп, п Западный, ул Покровская, д. 40 а",
+        "buildingType": "Частный",
+        "prediction": "20.45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.792738,
+          45.049369
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2393,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Елизаветинская, ул Центральная, д. 59 ",
+        "buildingType": "Частный",
+        "prediction": "20.10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.783488,
+          45.541186
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2396,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Тимашевский, п Советский, тер. Красносельская АФ ЗАО, д. 13 контур84",
+        "buildingType": "Прочий",
+        "prediction": "67.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.486496,
+          45.386013
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2399,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Кореновский, х. Верхний, пер Мирный, д. 5 А",
+        "buildingType": "Частный",
+        "prediction": "36.62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.344762,
+          44.942657
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2402,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Анапский, х Красный, ул Кооперативная, д. 23 ",
+        "buildingType": "Прочий",
+        "prediction": "42.61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.081884,
+          45.400303
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2404,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Тимашевский, х Ленинский, ул Центральная, д. 194 а",
+        "buildingType": "Прочий",
+        "prediction": "82.06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.563535,
+          46.735793
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2412,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Кущевский, с Красное, пер Советов, д. 6 А",
+        "buildingType": "Частный",
+        "prediction": "39.29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.572573,
+          44.833962
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2417,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Новороссийск, ст-ца Раевская, пер Славный, д. 2 ",
+        "buildingType": "Частный",
+        "prediction": "26.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.690586,
+          46.435948
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2418,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Кущевский, ст-ца Кисляковская, ул 2-я Заречная, д. 3 Б",
+        "buildingType": "Частный",
+        "prediction": "73.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.087803,
+          44.610917
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2422,
+        "isCommercial": true,
+        "address": "Республика Адыгея, г Майкоп, ул Пролетарская, д. 359 ",
+        "buildingType": "Частный",
+        "prediction": "71.09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.695329,
+          44.84986
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2430,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Северский, ст-ца Северская, ул Пугачева, д. 27 а",
+        "buildingType": "Частный",
+        "prediction": "25.56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.73458,
+          45.592425
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2435,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Славянский, х Черный Ерик, ул Мира, д. 96 ",
+        "buildingType": "Частный",
+        "prediction": "28.73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.548187,
+          44.844308
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2438,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Новороссийск, ст-ца Раевская, р-он об. дороги Натухаевская, д. 0 ",
+        "buildingType": "Частный",
+        "prediction": "24.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.053906,
+          45.361142
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2439,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Темрюкский, п За Родину, пер Светлый, д. 7 ",
+        "buildingType": "Частный",
+        "prediction": "33.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.053906,
+          45.361142
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2443,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Темрюкский, п За Родину, ул Тихая, д. 21 ",
+        "buildingType": "Частный",
+        "prediction": "35.48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.247385,
+          45.187986
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2447,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Динская, ул Имени Героя России Андрея Туркина, д. 45 ",
+        "buildingType": "Частный",
+        "prediction": "25.85"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.73205,
+          45.414631
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2448,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Калининский, ст-ца Старовеличковская, пер Кирова, д. 6 ",
+        "buildingType": "Частный",
+        "prediction": "14.51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.835758,
+          45.297029
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2451,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Нововеличковская, ул Виноградная, д. 51 ",
+        "buildingType": "Частный",
+        "prediction": "7.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.083849,
+          45.757023
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2452,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Калининский, х Пригибский, ул Затонная, д. 17 ",
+        "buildingType": "Частный",
+        "prediction": "43.82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.220001,
+          45.221081
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2455,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Динская, ул Калинина, д. 44 а",
+        "buildingType": "Частный",
+        "prediction": "29.34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.108132,
+          45.290988
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2457,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Славянский, п Совхозный, пер Камышовый, д. 7 ",
+        "buildingType": "Прочий",
+        "prediction": "48.75"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.600478,
+          45.547581
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2461,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Славянский, х Верхний, тер. урочище Малые Жестери, д. 39 ",
+        "buildingType": "Частный",
+        "prediction": "26.48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.034596,
+          45.84405
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2464,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Брюховецкий, ст-ца Переясловская, ул Политотдельская, д. 43 ",
+        "buildingType": "Частный",
+        "prediction": "42.94"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.60305,
+          45.015535
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2469,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Курганинский, ст-ца Михайловская, ул Пролетарская, д. 11 ",
+        "buildingType": "Частный",
+        "prediction": "27.11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.908312,
+          45.643481
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2470,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Выселковский, ст-ца Новомалороссийская, ул Красноармейская, д. 22 ",
+        "buildingType": "Частный",
+        "prediction": "70.59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.205407,
+          45.381804
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2476,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Красноармейский, ст-ца Полтавская, ул Строительная, д. 1 ",
+        "buildingType": "Частный",
+        "prediction": "40.48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.822201,
+          44.888908
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2477,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Курганинский, п Степной, ул Кооперативная, д. 38 ",
+        "buildingType": "Частный",
+        "prediction": "29.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.495149,
+          45.284699
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2480,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Красноармейский, ст-ца Ивановская, ул Юбилейная, д. 8 ",
+        "buildingType": "Частный",
+        "prediction": "46.70"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65183,
+          45.098758
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2481,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Красноармейский, ст-ца Марьянская, ул Соболя, д. 44 ",
+        "buildingType": "Частный",
+        "prediction": "24.79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.615071,
+          45.84141
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2482,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Приморско-Ахтарский, ст-ца Приазовская, ул Коммунистическая, д. 31 ",
+        "buildingType": "Частный",
+        "prediction": "34.09"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.273715,
+          45.172676
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2485,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Темрюкский, х Белый, ул Мира, д. 46 ",
+        "buildingType": "Частный",
+        "prediction": "19.89"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.726881,
+          43.593518
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2487,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Центральный, г Сочи, ул Роз, д. 115 ",
+        "buildingType": "Частный",
+        "prediction": "39.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.286691,
+          45.319585
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2488,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Темрюкский, ст-ца Голубицкая, западнее, д. 0 ",
+        "buildingType": "Частный",
+        "prediction": "61.84"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.926488,
+          45.222278
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2489,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Усть-Лабинский, х Семенов, ул Вольная, д. 51 ",
+        "buildingType": "Частный",
+        "prediction": "41.56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.006601,
+          46.076422
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2490,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Каневской, ст-ца Стародеревянковская, ул Солнечная, д. 14 ",
+        "buildingType": "Частный",
+        "prediction": "23.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.731291,
+          43.650224
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2491,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Центральный, г Сочи, ул Высокогорная, д. 107 участок",
+        "buildingType": "Частный",
+        "prediction": "38.66"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.671211,
+          45.368659
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2492,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Усть-Лабинский, ст-ца Кирпильская, ул Степная, д. 307 ",
+        "buildingType": "Частный",
+        "prediction": "48.76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.851435,
+          45.214685
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2493,
+        "isCommercial": false,
+        "address": "Краснодарский край, с Примаки, д. 2 1",
+        "buildingType": "Прочий",
+        "prediction": "21.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.659889,
+          45.480296
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2494,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Калининский, ст-ца Калининская, ул Самохина, д. 44 а",
+        "buildingType": "Частный",
+        "prediction": "30.61"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.854132,
+          45.20684
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2497,
+        "isCommercial": false,
+        "address": "Краснодарский край, с Примаки, д. 18 ",
+        "buildingType": "Частный",
+        "prediction": "29.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.231302,
+          45.367956
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2501,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Тбилисский, ст-ца Тбилисская, ул Базарная, д. 313 , кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "39.59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.508885,
+          44.743894
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2503,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Мостовский, ст-ца Ярославская, ул Советская, д. 40 ",
+        "buildingType": "Частный",
+        "prediction": "41.91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.380467,
+          44.930248
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2504,
+        "isCommercial": false,
+        "address": "Республика Адыгея, р-н Кошехабльский, п Дружба, ул Заводская, д. 38 ",
+        "buildingType": "Частный",
+        "prediction": "35.30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.995824,
+          45.799488
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2506,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Брюховецкий, ст-ца Брюховецкая, ул Батарейная, д. 81 ",
+        "buildingType": "Частный",
+        "prediction": "69.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.749325,
+          44.638629
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2507,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Лабинск, пер Труда, д. 2 ",
+        "buildingType": "Частный",
+        "prediction": "50.25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.706115,
+          43.655121
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2508,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Центральный, г Сочи, пер Теневой, д. 178 ",
+        "buildingType": "Частный",
+        "prediction": "29.10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.694936,
+          45.480455
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2510,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Калининский, ст-ца Калининская, ул Дорожная, д. 10 ",
+        "buildingType": "Частный",
+        "prediction": "48.82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.668069,
+          45.313427
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2518,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Калининский, ст-ца Андреевская, ул Матросова, д. 6 ",
+        "buildingType": "Частный",
+        "prediction": "17.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.111366,
+          45.171404
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2519,
+        "isCommercial": true,
+        "address": "Краснодарский край, тер. НСТ Радужное, ул Белая, д. 0 закрыт",
+        "buildingType": "Прочий",
+        "prediction": "72.76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.667711,
+          45.327313
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2522,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Калининский, ст-ца Андреевская, ул Маяковского, д. 8 ",
+        "buildingType": "Частный",
+        "prediction": "15.67"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.550282,
+          45.419373
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2523,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Старокорсунская, ул. АОЗТ Нива-1, д. 3 ",
+        "buildingType": "Частный",
+        "prediction": "30.65"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.068292,
+          45.31376
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2524,
+        "isCommercial": false,
+        "address": "Краснодарский край, тер. СНТ Прибрежный, уч-к, д. 280 ",
+        "buildingType": "Частный",
+        "prediction": "25.52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.575458,
+          45.660066
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2526,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Калининский, х Гречаная Балка, ул Украинская, д. 8 ",
+        "buildingType": "Частный",
+        "prediction": "20.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.800658,
+          45.048473
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2527,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Елизаветинская, ул Пролетарская, д. 219 ",
+        "buildingType": "Частный",
+        "prediction": "21.77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.618684,
+          45.100998
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2530,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Калининский, ст-ца Гривенская, ул Лиманная, д. 7 ",
+        "buildingType": "Частный",
+        "prediction": "54.24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.792721,
+          44.407658
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2533,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Мостовский, пгт Мостовской, ул Набережная, д. 68 ",
+        "buildingType": "Частный",
+        "prediction": "26.45"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.17183,
+          45.241201
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2534,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Красноармейский, х Чигрина, ул Центральная, д. 22 1",
+        "buildingType": "Частный",
+        "prediction": "25.00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.785422,
+          44.465769
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2537,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Лабинский, п Соцгородок, ул Тельмана, д. 1 , кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "7.16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.215605,
+          45.361441
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2538,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Красноармейский, ст-ца Полтавская, ул Красная, д. 92 , кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "40.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.615765,
+          44.595455
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2541,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Мостовский, п Восточный, ул Базарная, д. 28 ",
+        "buildingType": "Частный",
+        "prediction": "33.78"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.662715,
+          44.729956
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2542,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Курганинский, ст-ца Родниковская, ул Майкопская, д. 442 ",
+        "buildingType": "Частный",
+        "prediction": "26.00"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.025363,
+          43.438499
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2543,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Нижняя Шиловка, ул Рижская, д. 26 ",
+        "buildingType": "Частный",
+        "prediction": "29.82"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.725909,
+          45.603964
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2546,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Славянский, х Ставки, ул Ставки, д. 2 ",
+        "buildingType": "Частный",
+        "prediction": "33.34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.725909,
+          45.603964
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2550,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Славянский, х Ставки, ул Ставки, д. 74 ",
+        "buildingType": "Частный",
+        "prediction": "23.58"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.726953,
+          45.214767
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2554,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Темрюкский, ст-ца Тамань, ул Калинина, д. 77 , кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "53.86"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.708519,
+          45.130832
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2558,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Темрюкский, п Волна, ул Фанагорийская, д. 56 ",
+        "buildingType": "Частный",
+        "prediction": "55.51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.985191,
+          43.521586
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2560,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Казачий Брод, ул Форелевая, д. 3 ",
+        "buildingType": "Частный",
+        "prediction": "23.56"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.876303,
+          45.244001
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2570,
+        "isCommercial": false,
+        "address": "Краснодарский край, х Осечки, д. 93 ",
+        "buildingType": "Частный",
+        "prediction": "4.71"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.227454,
+          45.21407
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2574,
+        "isCommercial": false,
+        "address": "Краснодарский край, ст-ца Динская, ул Кирпичная, д. 53 1",
+        "buildingType": "Частный",
+        "prediction": "35.79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.920072,
+          43.450103
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2575,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Гастелло, д. 46 2",
+        "buildingType": "Частный",
+        "prediction": "15.27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.57561,
+          45.218844
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2578,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Усть-Лабинский, ст-ца Воронежская, ул Садовая, д. 231 ",
+        "buildingType": "Частный",
+        "prediction": "34.92"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.220505,
+          45.365038
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2582,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Тбилисский, ст-ца Тбилисская, ул Октябрьская, д. 369 ",
+        "buildingType": "Частный",
+        "prediction": "19.44"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.906141,
+          43.558686
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2585,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Лесная, д. 6 21",
+        "buildingType": "Частный",
+        "prediction": "18.12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.192025,
+          45.384251
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2586,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Тбилисский, ст-ца Тбилисская, ул Самарская, д. 20 ",
+        "buildingType": "Частный",
+        "prediction": "13.77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.007164,
+          43.415622
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2589,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Веселое, пер Короткий, д. 9 А",
+        "buildingType": "Частный",
+        "prediction": "27.50"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.729636,
+          43.575012
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2590,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Центральный, г Сочи, ул Орджоникидзе, д. 28 2",
+        "buildingType": "Частный",
+        "prediction": "37.80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.914723,
+          43.440106
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2592,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Мира, д. 31 ..",
+        "buildingType": "Частный",
+        "prediction": "38.38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.265182,
+          46.288098
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2595,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Крыловский, с Шевченковское, ул Степная, д. 8 , кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "39.04"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.924002,
+          43.424874
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2596,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Кирова, д. 46 .",
+        "buildingType": "Частный",
+        "prediction": "25.79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.918881,
+          44.306132
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2598,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Лабинский, ст-ца Каладжинская, ул Калинина, д. 133 ",
+        "buildingType": "Частный",
+        "prediction": "3.76"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.178059,
+          44.298143
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2599,
+        "isCommercial": true,
+        "address": "Республика Адыгея, р-н Майкопский, п Каменномостский, ул Белая, д. 4 д",
+        "buildingType": "Частный",
+        "prediction": "76.48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.759346,
+          44.591367
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2602,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Лабинск, ул Дорожная, д. 81 ",
+        "buildingType": "Частный",
+        "prediction": "7.46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.883916,
+          43.565673
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2603,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Хлебороб, ул Центральная, д. 0 ",
+        "buildingType": "Частный",
+        "prediction": "45.20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.264618,
+          43.686348
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2606,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Эстосадок, ул Березовая, д. 88 , кв. 13 в",
+        "buildingType": "Многоквартирный",
+        "prediction": "10.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.806732,
+          43.566661
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2607,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Хостинский, пер Лечебный, д. 6 А",
+        "buildingType": "Многоквартирный",
+        "prediction": "43.24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.820649,
+          43.624103
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2611,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, с Измайловка, пер. Хрустальный, д. 38 ",
+        "buildingType": "Частный",
+        "prediction": "7.33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.778082,
+          45.182383
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2613,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Гулькевичский, п Дальний, ул Мира, д. 10 , кв. 8 ",
+        "buildingType": "Частный",
+        "prediction": "13.62"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.889083,
+          43.49481
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2615,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Сочи, р-н Хостинский, ул Дарвина, д. 5 ",
+        "buildingType": "Частный",
+        "prediction": "82.79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.146365,
+          44.534402
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2616,
+        "isCommercial": false,
+        "address": "Республика Адыгея, р-н Майкопский, х Причтовский, ул Ленина, д. 4 ",
+        "buildingType": "Частный",
+        "prediction": "20.35"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.428283,
+          45.413087
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2617,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Кавказский, ст-ца Казанская, ул Гоголя, д. 218 ",
+        "buildingType": "Частный",
+        "prediction": "3.27"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.391534,
+          46.345579
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2619,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Ленинградский, ст-ца Ленинградская, ул Центральная, д. 34 ",
+        "buildingType": "Прочий",
+        "prediction": "36.72"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.401843,
+          45.532714
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2620,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Кавказский, п Мирской, ул Степная, д. 7 , кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "45.74"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.923265,
+          43.420205
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2622,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Интернациональная, д. 7 Б, кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "55.06"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.457842,
+          45.518645
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2623,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Кавказский, п Возрождение, ул Зеленая, д. 53 ",
+        "buildingType": "Частный",
+        "prediction": "14.46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.679668,
+          45.452093
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2624,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Кавказский, ст-ца Кавказская, пер Колхозный, д. 34 ",
+        "buildingType": "Частный",
+        "prediction": "38.77"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.312915,
+          45.339321
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2625,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Гулькевичский, п Мирный, ул Овражная, д. 22 ",
+        "buildingType": "Частный",
+        "prediction": "11.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.472701,
+          45.411351
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2627,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Кавказский, ст-ца Казанская, ул Красная, д. 59 а",
+        "buildingType": "Частный",
+        "prediction": "7.99"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.516803,
+          45.375073
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2628,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Гулькевичский, с Новоукраинское, ул Лермонтова, д. 12 ",
+        "buildingType": "Частный",
+        "prediction": "30.48"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.80055,
+          43.559428
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2629,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Хостинский, ул Видовая, д. 5 ",
+        "buildingType": "Частный",
+        "prediction": "39.54"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.933725,
+          45.41675
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2631,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Гулькевичский, с Майкопское, ул Кубанская, д. 52 ",
+        "buildingType": "Частный",
+        "prediction": "34.14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.88062,
+          43.500187
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2633,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Хостинский, ул Сухумское шоссе, д. 0 ",
+        "buildingType": "Частный",
+        "prediction": "45.73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.917728,
+          43.42484
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2634,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Ульянова, д. 9 ",
+        "buildingType": "Частный",
+        "prediction": "59.05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.660394,
+          45.193265
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2635,
+        "isCommercial": false,
+        "address": "Республика Адыгея, р-н Красногвардейский, аул Хатукай, ул Парниковая, д. 2 ",
+        "buildingType": "Частный",
+        "prediction": "31.97"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.154458,
+          44.674464
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2636,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Новокубанский, п Южный, ул Солнечная, д. 23 , кв. 1 ",
+        "buildingType": "Частный",
+        "prediction": "19.79"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.892122,
+          43.487857
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2638,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Ленина, д. 300 ",
+        "buildingType": "Частный",
+        "prediction": "43.59"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.493479,
+          44.838916
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2639,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Успенский, аул Кургоковский, ул Центральная, д. 1 а",
+        "buildingType": "Частный",
+        "prediction": "42.53"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.520101,
+          44.404223
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2640,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Отрадненский, ст-ца Отрадная, ул Школьная, д. 25 ",
+        "buildingType": "Частный",
+        "prediction": "51.51"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.205672,
+          44.955411
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2641,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Успенский, с Вольное, ул Первомайская, д. 38 ",
+        "buildingType": "Частный",
+        "prediction": "18.22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.912016,
+          43.445501
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2642,
+        "isCommercial": false,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Фрунзе, д. 4 А",
+        "buildingType": "Частный",
+        "prediction": "48.60"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.38652,
+          44.613567
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2643,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Отрадненский, с Гусаровское, ул Красная, д. 20 ",
+        "buildingType": "Частный",
+        "prediction": "15.42"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.844948,
+          44.247466
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2644,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Туапсинский, пгт Новомихайловский, пер Сочинский, д. 2 ",
+        "buildingType": "Прочий",
+        "prediction": "76.39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.901609,
+          43.474541
+        ],
+        "icon": "./ico/location-dot-solid.png"
+      },
+      "properties": {
+        "accountId": 2646,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Медовая, д. 78 ",
+        "buildingType": "Частный",
+        "prediction": "86.21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.245895,
+          44.735616
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2647,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Успенский, аул Урупский, ул Набережная, д. 7 ",
+        "buildingType": "Частный",
+        "prediction": "22.91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.762289,
+          44.299766
+        ],
+        "icon": "./ico/location-dot-solid(1).png"
+      },
+      "properties": {
+        "accountId": 2648,
+        "isCommercial": true,
+        "address": "Краснодарский край, р-н Туапсинский, с Лермонтово, ул Зеленая, д. 2 ",
+        "buildingType": "Частный",
+        "prediction": "73.73"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.268667,
+          45.061816
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2649,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Новокубанский, п Передовой, ул Гагарина, д. 12 ",
+        "buildingType": "Частный",
+        "prediction": "23.47"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.89458,
+          43.475128
+        ],
+        "icon": "./ico/location-dot-solid.png"
+      },
+      "properties": {
+        "accountId": 2650,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Просвещения, д. 138 А",
+        "buildingType": "Частный",
+        "prediction": "88.30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.157318,
+          44.790811
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2651,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Новокубанский, ст-ца Советская, ул Бурдовой, д. 119 ",
+        "buildingType": "Частный",
+        "prediction": "11.49"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.758185,
+          44.300007
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2652,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Туапсинский, с Лермонтово, ул Ленина, д. 12 А",
+        "buildingType": "Частный",
+        "prediction": "48.36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.136451,
+          44.883106
+        ],
+        "icon": "./ico/location-dot-solid(3).png"
+      },
+      "properties": {
+        "accountId": 2653,
+        "isCommercial": false,
+        "address": "Краснодарский край, р-н Новокубанский, с Радищево, ул Северная, д. 90 ",
+        "buildingType": "Частный",
+        "prediction": "33.80"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.891302,
+          43.48142
+        ],
+        "icon": "./ico/location-dot-solid(2).png"
+      },
+      "properties": {
+        "accountId": 2654,
+        "isCommercial": true,
+        "address": "Краснодарский край, г Сочи, р-н Адлерский, ул Просвещения, д. 145 А",
+        "buildingType": "Частный",
+        "prediction": "51.70"
+      }
+    }
+  ]
+}

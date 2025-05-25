@@ -4,7 +4,7 @@ from urllib.parse import quote
 
 
 
-API_2GIS = "f93a5b47-6e3b-4c23-ba03-185daa02ef64"
+API_2GIS = "566b97c5-ec64-46c1-bb24-048c1bffe768"
 API_DADATA = "8a4cfc00823055a56808d387105d4fc05bd8dd07"
 SECRET_DADATA = "e140f92bdbb6098c1fab7d28cf5326b55916dca5"
 
@@ -77,7 +77,7 @@ def final_get(text):
 # text = "Краснодар Северная 405"
 # print(final_get(text))
 
-
+# print(geocode_to_coords(API_2GIS, "Краснодарский край, р-н Мостовский, пгт Мостовской, ул Колхозная, д. 37 1"))
 
 # id = geocode_to_id(API_2GIS, text)
 # # print(point_to_url(geocode_to_coords(API_2GIS, "Западная 8 Тимашевск")))
