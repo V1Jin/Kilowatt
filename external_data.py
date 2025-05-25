@@ -78,9 +78,11 @@ def final_get(text):
 
     
 
-text = "Краснодар Северная 405"
-print(get_has_business(API_2GIS, geocode_to_id(API_2GIS, text)))
-print(final_get(text))
+# text = "Краснодар Северная 405"
+# print(final_get(text))
+
+
+
 # id = geocode_to_id(API_2GIS, text)
 # # print(point_to_url(geocode_to_coords(API_2GIS, "Западная 8 Тимашевск")))
 # print(text)
