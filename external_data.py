@@ -65,11 +65,22 @@ def get_property_type(kad_number): #получение типа по кадас�
     except (KeyError, TypeError):
         return None
     
-
+def final_get(text):
+    if (get_has_business(API_2GIS, geocode_to_id(API_2GIS, text))):
+        return {
+            'name': text,
+            'type': get_property_type(get_cadastral_number(text)),
+            'kad': get_cadastral_number(text),
+            'cnt_biz': get_count_business(API_2GIS, geocode_to_id(API_2GIS, text))
+        }
+    else:
+        return "Ничего не найдено."
 
     
 
-# text = "Краснодар Ставрапольская 149"
+text = "Краснодар Северная 405"
+print(get_has_business(API_2GIS, geocode_to_id(API_2GIS, text)))
+print(final_get(text))
 # id = geocode_to_id(API_2GIS, text)
 # # print(point_to_url(geocode_to_coords(API_2GIS, "Западная 8 Тимашевск")))
 # print(text)
