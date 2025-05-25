@@ -77,7 +77,6 @@ def final_get(text):
 # text = "Краснодар Северная 405"
 # print(final_get(text))
 
-# print(geocode_to_coords(API_2GIS, "Краснодарский край, р-н Мостовский, пгт Мостовской, ул Колхозная, д. 37 1"))
 
 # id = geocode_to_id(API_2GIS, text)
 # # print(point_to_url(geocode_to_coords(API_2GIS, "Западная 8 Тимашевск")))
